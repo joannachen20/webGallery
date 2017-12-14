@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Hairline');
+
+#question {
+	position: absolute;
+	text-align: center;
+	font-family: bungee hairline;
+	border: 1px solid lightgrey;
+	width: 500px;
+}
+
+#response {
+	position: relative;
+}
+
+#gallery img {
+	width: 241px;
+	margin-top: 30px;
+	margin-right: 5px;
+	margin-bottom: 10px;
+}
